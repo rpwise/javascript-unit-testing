@@ -1,0 +1,22 @@
+{
+  "name": "javascript-unit-testing",
+  "version": "1.0.0",
+  "description": "unit testing javascript functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rpwise/javascript-unit-testing.git"
+  },
+  "author": "Rick Wise rpwise@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rpwise/javascript-unit-testing/issues"
+  },
+  "homepage": "https://github.com/rpwise/javascript-unit-testing#readme",
+  "dependencies": {
+    "jest": "^26.6.3"
+  }
+}
